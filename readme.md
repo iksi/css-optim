@@ -26,9 +26,9 @@ The following order is based on <https://html.spec.whatwg.org/multipage/#toc-sem
 
 ### Sections
 - body
+- article
 - section
 - nav
-- article
 - aside
 - h1
 - h2
@@ -44,7 +44,6 @@ The following order is based on <https://html.spec.whatwg.org/multipage/#toc-sem
 ### Grouping content
 - p
 - hr
-- br
 - pre
 - blockquote
 - ol
