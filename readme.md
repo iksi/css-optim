@@ -8,7 +8,7 @@ Sort declarations alphabetically.
 
 ## Selector sorting
 
-The following order is based on <https://html.spec.whatwg.org/multipage/#toc-semantics>.
+The following order is based on <https://html.spec.whatwg.org/multipage/#toc-semantics> (with the exception of the main element).
 
 ### Universal
 - *
