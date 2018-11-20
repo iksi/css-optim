@@ -26,6 +26,7 @@ The following order is based on <https://html.spec.whatwg.org/multipage/#toc-sem
 
 ### Sections
 - body
+- main
 - article
 - section
 - nav
@@ -55,7 +56,6 @@ The following order is based on <https://html.spec.whatwg.org/multipage/#toc-sem
 - dd
 - figure
 - figcaption
-- main
 - div
 
 ### Text-level semantics
