@@ -1,4 +1,4 @@
-# CSSO
+# CSS optim
 
 CSS optimization inspired by Jens Oliver Meiert’s book <https://github.com/j9t/css-optimization-basics/>.
 
